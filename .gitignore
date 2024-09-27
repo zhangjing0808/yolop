@@ -14,4 +14,4 @@ datasets/
 /log_out.log
 /nohup.out
 /default.py
-/lib/config/default.py
+lib/config/default.py
