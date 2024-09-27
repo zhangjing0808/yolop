@@ -10,3 +10,8 @@ inference/
 *.pt
 *.tar
 *.tar.gz
+datasets/
+/log_out.log
+/nohup.out
+/default.py
+/lib/config/default.py
